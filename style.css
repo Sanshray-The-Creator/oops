@@ -1,0 +1,23 @@
+.heading{
+    font-size: 20px;
+    width: 100%;
+    margin: 0px;
+}
+
+.note{
+    font-size: 15px;
+}
+
+body{
+    background-image: url("https://media.istockphoto.com/photos/dj-mixer-with-headphones-picture-id627958976?k=20&m=627958976&s=170667a&w=0&h=fEQshpwsFRRWogRBIhfzWKbs5HZATNtu3nRvJygCAPk=");
+    background-size: cover;
+}
+
+h3{
+    margin-top: 10px;
+}
+
+canvas{
+    border-radius: 20px;
+    border: dashed 5px cornsilk;
+}
